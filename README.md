@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋, I'm Arturo. 
 
-<!--
-**r2abreu/r2abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former commerial pilot, now self taught software developer. I'm eager to know and share everything related with web development. 
 
-Here are some ideas to get you started:
+Things I'm currently working on: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Proyects | Technology | Status |
+| -------- | ---------- | ------- |
+| [Faketube](https://faketube.netlify.app/) | *Vue.js* | Live |
+| [Ghibli World](https://ghibliworld.netlify.app/) | *React.js* | Live | 
+| [arturoabreu.com](arturoabreu.com) | *Gatsby.js* | Under construction |
+
+## Get in touch 
+
+* Linkedin: https://www.linkedin.com/in/artuabreu/
+
+

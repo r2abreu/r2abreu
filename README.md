@@ -2,7 +2,7 @@
 
 Former commerial pilot, now self taught software developer. I'm eager to know and share everything related with web development. 
 
-Things I'm currently working on: 
+## Things I'm currently working on: 
 
 | Proyects | Technology | Status |
 | -------- | ---------- | ------- |

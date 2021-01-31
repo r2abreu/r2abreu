@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arturo. 
 
-Former commerial pilot, now self taught software developer. I'm eager to know and share everything related with web development. 
+Self taught software developer and commercial pilot. I'm eager to know and share everything related with web development. 
 
 ## Things I'm currently working on: 
 

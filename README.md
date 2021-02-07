@@ -4,7 +4,7 @@ Self taught software developer and commercial pilot. I'm eager to know and share
 
 ## Things I'm currently working on: 
 
-| Proyects | Technology | Status |
+| Proyects | Stack | Status |
 | -------- | ---------- | ------- |
 | [Faketube](https://faketube.netlify.app/) | *Vue.js* | Live |
 | [Ghibli World](https://ghibliworld.netlify.app/) | *React.js* | Live | 

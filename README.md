@@ -20,6 +20,8 @@ Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
    * [Nodejs Design Patterns by Mario Casciaro and Luciano Mammino](https://www.nodejsdesignpatterns.com/)
  * UNIX utilities: I'm trying to improve my command line Kung Fu, one bash script at the time.
    * [The Linux Command Line](https://nostarch.com/tlcl2)
+ * A11y:
+   * [Inclusive Design Patterns by Heydon Pickering](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/)
 
 ## These are some of the things I'm learning
 
@@ -32,7 +34,7 @@ Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
 * Computer Science fundamentals:
   * [nand2tetris](https://www.google.com/search?q=nand+to+tetris&oq=nand+to+tetris&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYQNIBCDE0NzhqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
 
-I try to read as much as I can about these and other topics, my sin is not using it to create anything useful, but I'm trying to overcome that (any tips are greatly appreciated).
+I try to read as much as I can about these and other topics, my sin is not using it to create something useful, but I'm trying to overcome that (any tips are greatly appreciated 😄).
 
 ## My mentors
 

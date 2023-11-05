@@ -11,7 +11,7 @@ Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
 * JavaScript: Been working with it for three years (still struggling to master it thought).
    * [JavaScript: The Definitive Guide by David Flanagan](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
    * [JavaScript and JQuery by Jon Duckett](https://javascriptbook.com/)
-* Vue/Nuxt: Started with Vue 2, now my knoledge has migrated to Vue 3 (doing composition the right way is hard thought).
+* Vue/Nuxt: Started with Vue 2, now my knowledge has migrated to Vue 3 (doing composition the right way is hard thought).
    * [Frontend Masters](https://frontendmasters.com/)
    * [Vue Mastery](https://www.vuemastery.com/)
 * TypeScript: We are good friends, I appreciate how code becomes documentation itself (not a fan of dealing with the compiler configuration thought).

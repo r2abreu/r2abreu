@@ -8,17 +8,17 @@ Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
 
 ## These are some of the tools/topics I work with and some learning resources:
 
-* JavaScript: Been working with it for three years (still struggling to master it thought).
+* JavaScript:
    * [JavaScript: The Definitive Guide by David Flanagan](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
    * [JavaScript and JQuery by Jon Duckett](https://javascriptbook.com/)
-* Vue/Nuxt: Started with Vue 2, now my knowledge has migrated to Vue 3 (doing composition the right way is hard thought).
+* Vue/Nuxt: 
    * [Frontend Masters](https://frontendmasters.com/)
    * [Vue Mastery](https://www.vuemastery.com/)
-* TypeScript: We are good friends, I appreciate how code becomes documentation itself (not a fan of dealing with the compiler configuration thought).
+* TypeScript: 
    * [Effective Typescript by Dan Vanderkam](https://www.oreilly.com/library/view/effective-typescript/9781492053736/)
-* Node.js: Being able to dip my toes into different runtimes writing the JavaScript I'm used to its a big advantage.
+* Node.js: 
    * [Nodejs Design Patterns by Mario Casciaro and Luciano Mammino](https://www.nodejsdesignpatterns.com/)
- * UNIX utilities: I'm trying to improve my command line Kung Fu, one bash script at the time.
+ * UNIX utilities: 
    * [The Linux Command Line](https://nostarch.com/tlcl2)
  * A11y:
    * [Inclusive Design Patterns by Heydon Pickering](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/)
@@ -34,9 +34,7 @@ Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
 * Computer Science fundamentals:
   * [nand2tetris](https://www.google.com/search?q=nand+to+tetris&oq=nand+to+tetris&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYQNIBCDE0NzhqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
 
-I try to read as much as I can about these and other topics, my sin is not using it to create something useful, but I'm trying to overcome that (any tips are greatly appreciated 😄).
-
-## My mentors
+## Mentors
 
 In the age of information there's no shortage of helpful information, however I would like to highlight these amazing people: 
 

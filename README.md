@@ -1,10 +1,6 @@
 # Greetings, fellow internaut!
 
-I'm a happy guy who does web development. I used to fly planes for a living (you can ask me about that later) ✈️ and I come from this beautiful place in the Caribean:
-
-<img src="https://camo.githubusercontent.com/b961e63245e546c1e1623e6ee41edb282d553bd0fa542d20d7697a1b26964ddf/68747470733a2f2f63646e322e70696372796c2e636f6d2f70686f746f2f323031342f30352f30322f6f617369732d62656163682d696e2d6775616d616368652d6d61726761726974612d69736c616e642d6233643035362d313032342e6a7067" alt="Margarita Island, Venezuela" title="Margarita Island, Venezuela" width="350" height="350">
-
-Now I'm based in London (you can ask about that later too) 👨🏻‍💻.
+I'm a happy guy who does web development. I used to fly planes for a living. I come from a beautiful place in the Caribean. Now I'm based in London 👨🏻‍💻.
 
 ## These are some of the tools/topics I work with and some learning resources:
 

@@ -25,4 +25,4 @@ I'm working towards becoming a Ruby on Rails developer.
 
 ### Backend
 
-- `tachuela_rails`: Rails version of [tachuela.js](https://gitlab.com/r2abreu/tachuela_rails)
+- [tachuela_rails](https://gitlab.com/r2abreu/tachuela_rails/-/settings/repository): Rails version of [tachuela.js](https://gitlab.com/r2abreu/tachuela_rails)

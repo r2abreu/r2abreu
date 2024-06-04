@@ -7,6 +7,7 @@ I'm working towards becoming a Ruby on Rails developer.
 ## Gitlab contributions
 
 - Moves full stop out of "Learn More" link: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/145192
+- Fixes outdated link to EE repository: https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests/4776
 
 ## Projects 
 

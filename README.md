@@ -1,8 +1,8 @@
 # r2abreu
 
-Hi, I'm a web developer working for TUI Musement. I've been working for over 3 years with frontend techonologies and I'm proeficient in the Vue ecosystem.
+Hi, I'm a web developer working for [TUI Musement](https://www.tuimusement.com/us/). I've been working for over 3 years with frontend techonologies and in particular, the Vue ecosystem.
 
-I'm working towards becoming a fullstack Ruby on Rails developer.
+I'm working towards becoming a Ruby on Rails developer.
 
 ## Gitlab contributions
 

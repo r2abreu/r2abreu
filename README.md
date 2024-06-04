@@ -17,7 +17,7 @@ I'm working towards becoming a Ruby on Rails developer.
 - `uda`: https://gitlab.com/r2abreu/uda
 - `js_calculator`: https://gitlab.com/r2abreu/js_calculator
 - `rock_paper_scissors`: https://gitlab.com/r2abreu/rock_paper_scissors
-- `dni_generatir`: https://gitlab.com/r2abreu/dni_generator
+- `dni_generator`: https://gitlab.com/r2abreu/dni_generator
 - `fakebook`: https://gitlab.com/r2abreu/fakebook
 
 

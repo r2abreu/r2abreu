@@ -1,6 +1,6 @@
 # r2abreu
 
-Hi, I'm a web developer working for [TUI Musement](https://www.tuimusement.com/us/). I've been working for over 3 years with frontend techonologies and in particular, the Vue ecosystem.
+Hi, I'm a London-based web developer working for [TUI Musement](https://www.tuimusement.com/us/). I've been working for over 4 years with frontend techonologies and in particular, the Vue ecosystem.
 
 I'm working towards becoming a Ruby on Rails developer.
 
